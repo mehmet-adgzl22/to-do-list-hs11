@@ -16,6 +16,6 @@
 # Proje Bağlantı Linki
 https://to-do-list-hs11.netlify.app/
 
-#  Github-Clone-hs-11-Proje Gifi
+#   to-do-list-hs11-Proje Gifi
 
 ![to-do-list](https://github.com/user-attachments/assets/e264ebdb-962c-42eb-bccc-662c33c885cf)

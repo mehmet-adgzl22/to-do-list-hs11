@@ -1,6 +1,6 @@
 # to-do-list-hs11 Proje Özellikleri
 <ul>
-  <li>Bu projede html, css ve javascprit kullanılarak basit bir alışveriş listesi yapıldı. Ayrıca projemize ekleme, çıkarma ve değiştirme özellikleri eklenildi.</li>
+  <li>Bu projede html, css ve javascprit kullanılarak basit bir alışveriş listesi yapıldı. Ayrıca projemize ekleme, çıkarma, değiştirme ve listeyi temizle özellikleri eklenildi.</li>
 </ul>
 
 # Projede Kullanılan Diller ve Araçlar

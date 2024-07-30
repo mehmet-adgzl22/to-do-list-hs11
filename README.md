@@ -14,7 +14,7 @@
 </ul>
 
 # Proje Bağlantı Linki
-https://to-do-list-hs11.netlify.app/
+https://todolist-hs-11.netlify.app/
 
 #   to-do-list-hs11-Proje Gifi
 
